@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: True
 toc_sticky:	True
 categories: 
-    - Paper Review
+    - Algorithm
 tags: 
     - Computer Vision
     - Optical Character Recognition
