@@ -1,1 +1,3 @@
-# domingolee0254.github.io
+# Domingo's blog         
+공부한 내용을 정리하고 있습니다.     
+저의 관심분야는 딥러닝, 컴퓨터비전, 문자인식 등 입니다. 
