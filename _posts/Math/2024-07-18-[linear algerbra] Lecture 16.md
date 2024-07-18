@@ -6,11 +6,9 @@ toc_label: "Table of Contents"
 toc_icon: true
 toc_sticky: true
 categories: 
-    - Lecture Notes
-tags: 
     - Linear Algebra
+tags:
     - Projections
-    - Mathematics
 last_modified_at: 2024-07-18
 ---
 
