@@ -1,5 +1,5 @@
 ---
-title: "[paper]Boosting vision transformers for image retrieval"
+title: "[Paper] Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

@@ -1,5 +1,5 @@
 ---
-title: "[paper]Width & Depth Pruning for Vision Transformers"
+title: "[Paper] Attention Is All You Need"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

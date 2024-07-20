@@ -1,5 +1,5 @@
 ---
-title: "[paper]An Image is Worth 16x16 Words Transformers for Image Recognition at Scale"
+title: "[Paper] Are Sixteen Heads Really Better than One?" 
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

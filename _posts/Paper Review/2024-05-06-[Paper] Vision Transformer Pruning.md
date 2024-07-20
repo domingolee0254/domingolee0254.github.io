@@ -1,5 +1,5 @@
 ---
-title: "[paper]Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations"
+title: "[Paper] Vision Transformer Pruning"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

@@ -1,5 +1,5 @@
 ---
-title: "[paper]A Self-Supervised Descriptor for Image Copy Detection"
+title: "[Paper] A Self-Supervised Descriptor for Image Copy Detection"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

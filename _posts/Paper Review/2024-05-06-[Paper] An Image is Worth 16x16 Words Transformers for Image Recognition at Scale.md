@@ -1,5 +1,5 @@
 ---
-title: "[paper]LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding"
+title: "[Paper] An Image is Worth 16x16 Words Transformers for Image Recognition at Scale"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

@@ -1,5 +1,5 @@
 ---
-title: "[paper]Are Sixteen Heads Really Better than One?" 
+title: "[Paper] Teaching Matters: Investigating the Role of Supervision in Vision Transformers"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

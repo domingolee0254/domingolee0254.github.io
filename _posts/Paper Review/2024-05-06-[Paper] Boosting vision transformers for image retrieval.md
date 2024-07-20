@@ -1,5 +1,5 @@
 ---
-title: "[paper]Attention Is All You Need"
+title: "[Paper] Boosting vision transformers for image retrieval"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

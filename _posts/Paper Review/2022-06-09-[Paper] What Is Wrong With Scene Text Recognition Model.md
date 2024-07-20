@@ -1,5 +1,5 @@
 ---
-title: "[paper]What Is Wrong With Scene Text Recognition Model"
+title: "[Paper] What Is Wrong With Scene Text Recognition Model"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"

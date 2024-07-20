@@ -1,5 +1,5 @@
 ---
-title: "[paper]Vision Transformer Pruning"
+title: "[Paper] LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding"
 author_profile: false
 toc: True	
 toc_label: "Table of Contents"
