@@ -1,12 +1,15 @@
-# Lecture 15
-
-상태: 작성 전
-생성 일시: 2024년 7월 1일 오전 8:42
-수업일: 2024년 7월 1일
-업로드: No
-유형: 수업
-
-# Intro
+---
+title: "[Linear Algebra] Lecture 15 Projections onto Subspaces"
+author_profile: false
+toc: true
+toc_label: "Table of Contents"
+toc_icon: true
+toc_sticky: true
+categories: 
+    - Linear Algebra
+tags:
+last_modified_at: 2024-07-20
+---
 
 <aside>
 💡 Ax=b 에서 어떻게 최적해가 나오지?

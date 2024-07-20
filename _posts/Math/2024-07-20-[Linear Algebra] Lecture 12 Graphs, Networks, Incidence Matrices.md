@@ -1,3 +1,16 @@
+---
+title: "[Linear Algebra] Lecture 12 Graphs, Networks, Incidence Matrices"
+author_profile: false
+toc: true
+toc_label: "Table of Contents"
+toc_icon: true
+toc_sticky: true
+categories: 
+    - Linear Algebra
+tags:
+last_modified_at: 2024-07-20
+---
+
 <aside>
 💡 컬럼으로 보면 → 한 노드 에서 나가는 모든 양
 로우로 보면 → 어디서 나가서 어디로 들어가는 지 양

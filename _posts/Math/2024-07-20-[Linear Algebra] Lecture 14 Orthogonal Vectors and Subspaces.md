@@ -1,3 +1,16 @@
+---
+title: "[Linear Algebra] Lecture 14 Orthogonal Vectors and Subspaces"
+author_profile: false
+toc: true
+toc_label: "Table of Contents"
+toc_icon: true
+toc_sticky: true
+categories: 
+    - Linear Algebra
+tags:
+last_modified_at: 2024-07-20
+---
+
 <aside>
 💡 직교와 독립의 차이
 

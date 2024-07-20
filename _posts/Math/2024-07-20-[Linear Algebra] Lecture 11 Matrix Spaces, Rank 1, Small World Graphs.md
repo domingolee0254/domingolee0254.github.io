@@ -1,3 +1,15 @@
+---
+title: "[Linear Algebra] Lecture 11 Matrix Spaces, Rank 1, Small World Graphs"
+author_profile: false
+toc: true
+toc_label: "Table of Contents"
+toc_icon: true
+toc_sticky: true
+categories: 
+    - Linear Algebra
+tags:
+last_modified_at: 2024-07-20
+---
 
 <aside>
 💡 Dimension과 rank가 정확히 어떤 대조점에서 차이가 나는 가?
