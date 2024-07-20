@@ -46,7 +46,7 @@ last_modified_at: 2024-07-20
 
 
 </aside>
-![Untitled](https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/%5BLinear%20Algebra%5D%20Lecture%2010%20The%20Four%20Fundamental%20Subspaces/leftnullspace.png)
+![Untitled](https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2010%20The%20Four%20Fundamental%20Subspaces/leftnullspace.png)
 
 - A에서 row 개수인 m은 A^T에서 col 개수가 됨
     - m-r = A^T의 free col 개수 =A^T null space의 차원
@@ -58,7 +58,7 @@ col space와 nullspace를 모두 합치면 모든 R^n 공간 표현한다는 거
 
 </aside>
 
-![Untitled](https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/%5BLinear%20Algebra%5D%20Lecture%2010%20The%20Four%20Fundamental%20Subspaces/foursubspaces.jpg)
+![Untitled](https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2010%20The%20Four%20Fundamental%20Subspaces/foursubspaces.jpg)
 
 - 이 그림을 설명할 줄 알아야 함
 1. Ax=0 / Ax ≠0인 경우 나눈 것
