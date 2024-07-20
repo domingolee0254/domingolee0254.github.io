@@ -12,10 +12,9 @@ last_modified_at: 2024-07-20
 ---
 
 <aside>
-💡
-/Untitled%201.png>)
-
 ![Untitled](<https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled.png>)
+
+<img src="https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled.png" alt="Untitled">
 
 </aside>
 
@@ -26,16 +25,13 @@ last_modified_at: 2024-07-20
 
 <aside>
 💡 p에서 b는 또 어떻게 전개되는 거야
-
 ![Untitled](<https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled%201.png>)
-
 ![Untitled](<https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled%202.png>)
 
 </aside>
 
 <aside>
 💡 왜 또 역행렬이 존재 해야하는데
-
 ![Untitled](<https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled%203.png>)
 
 </aside>
