@@ -17,38 +17,25 @@ last_modified_at: 2024-07-20
 - pivot의 개수: 공간을 정의하는 요소의 개수, 시스템이 정해지면 row의 피봇의 개수나 col의 피봇의 개수나 그냥 같은 거임
 - pivot의 정의상 행으로 보나 열로 보나 1이 있는게 1개임
 
-### Q1) 행렬 A의 row space의 basis는 R 행렬의 처음 r개의 row vector들 원리가 이해 안됨
 
+### Q2) 행렬 A의 row space의 basis는 R 행렬의 처음 r개의 row vector들 원리가 이해 안됨
 - pivit의 관점으로 보면, 행/열로 보나 정의상 그 행/열에서 1개임
     - pivot은 무조건 column을 말함
     - pivot을 남기려고 reduce함 → 독립적인 row만 남음
 
-<aside>
-💡 A의 row space의 차원? A의 rank가 row space의 차원?
+### Q3) A의 row space의 차원? A의 rank가 row space의 차원?
 
-</aside>
+### Q4) Rank, component, dimension 개념 정확히 하기
 
-<aside>
-💡 Rank, component, dimension 개념 정확히 하기
+### Q5) 왜 left null space에서 rank가 m-r이지?
 
-</aside>
-
-<aside>
-💡 왜 left null space에서 rank가 m-r이지?
-
-
-</aside>
 ![Untitled](https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2010%20The%20Four%20Fundamental%20Subspaces/leftnullspace.png)
 
 - A에서 row 개수인 m은 A^T에서 col 개수가 됨
     - m-r = A^T의 free col 개수 =A^T null space의 차원
-    
 
-<aside>
-💡 X_comp = x_part + x_null 일 때 particular 해가 컬럼 스페이스에 존재하는 거 아니었어?
-col space와 nullspace를 모두 합치면 모든 R^n 공간 표현한다는 거 같은데 결국 x_parti가 row space 인지 col space인지
-
-</aside>
+### Q6) X_comp = x_part + x_null 일 때 particular 해가 컬럼 스페이스에 존재하는 거 아니었어?
+- col space와 nullspace를 모두 합치면 모든 R^n 공간 표현한다는 거 같은데 결국 x_parti가 row space 인지 col space인지
 
 ![Untitled](https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2010%20The%20Four%20Fundamental%20Subspaces/foursubspaces.jpg)
 

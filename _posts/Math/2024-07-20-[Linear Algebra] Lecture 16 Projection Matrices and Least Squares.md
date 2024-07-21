@@ -11,37 +11,22 @@ tags:
 last_modified_at: 2024-07-20
 ---
 
-<aside>
-
 <img src="https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled.png" alt="Untitled">
 
-</aside>
+### Q1) (I - P) 는 또 어디서 나오는 거야
 
-<aside>
-💡 (I - P) 는 또 어디서 나오는 거야
-
-</aside>
-
-<aside>
-💡 p에서 b는 또 어떻게 전개되는 거야
+### Q2) p에서 b는 또 어떻게 전개되는 거야
 
 <img src="https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled%201.png" alt="Untitled">
 <img src="https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled%202.png" alt="Untitled">
 
-</aside>
 
-<aside>
-💡 왜 또 역행렬이 존재 해야하는데
+### Q3) 왜 또 역행렬이 존재 해야하는데
 <img src="https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled%203.png" alt="Untitled">
 
-</aside>
 
-<aside>
-💡 투영벡터라는 게 정확히 무슨 의미지? aTb / aTa가 뭘 말하는거야
-
-</aside>
-
-투영 벡터는 한 벡터를 다른 벡터 또는 벡터 공간에 "투영"했을 때의 결과를 의미합니다. 즉, 한 벡터를 기준 벡터 또는 기준 벡터 집합에 직각으로 내렸을 때 그 교점이 투영 벡터가 됩니다. 이 개념은 특히 선형대수학에서 중요한 역할을 합니다.
+### Q4) 투영벡터라는 게 정확히 무슨 의미지? aTb / aTa가 뭘 말하는거야
+- 투영 벡터는 한 벡터를 다른 벡터 또는 벡터 공간에 "투영"했을 때의 결과를 의미합니다. 즉, 한 벡터를 기준 벡터 또는 기준 벡터 집합에 직각으로 내렸을 때 그 교점이 투영 벡터가 됩니다. 이 개념은 특히 선형대수학에서 중요한 역할을 합니다.
 
 <img src="https://raw.githubusercontent.com/domingolee0254/domingolee0254.github.io/main/assets/image/post_image/Math/2024-07-20-%5BLinear%20Algebra%5D%20Lecture%2016%20Projection%20Matrices%20and%20Least%20Squares/Untitled%204.png" alt="Untitled">
 

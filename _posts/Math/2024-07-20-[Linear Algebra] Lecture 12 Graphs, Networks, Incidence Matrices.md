@@ -1,7 +1,7 @@
 ---
 title: "[Linear Algebra] Lecture 12 Graphs, Networks, Incidence Matrices"
 author_profile: false
-toc: true
+toc: false
 toc_label: "Table of Contents"
 toc_icon: true
 toc_sticky: true
@@ -11,27 +11,12 @@ tags:
 last_modified_at: 2024-07-20
 ---
 
-<aside>
-💡 컬럼으로 보면 → 한 노드 에서 나가는 모든 양
+### Q1) 컬럼으로 보면 → 한 노드 에서 나가는 모든 양
 로우로 보면 → 어디서 나가서 어디로 들어가는 지 양
 
-</aside>
-
-<aside>
-💡 로우 스페이스랑 널 스페이스랑 직요하는데 컬럼스페이스에 A곱하는데 어떻게 널스페이스야?
-
-</aside>
-
-<aside>
-💡 loop와 edge
-
-</aside>
-
-<aside>
-💡 Null space of A에서 [c c c c]에 의해 한번에 전류가 결정된다는 게 한번에 C만큼 전류를 주면 전류가 그렇게 된다는 건지(근데 전류가 흐르지 않는다고 햇는데 무슨말이지)
-
-</aside>
-
+### Q2) 로우 스페이스랑 널 스페이스랑 직요하는데 컬럼스페이스에 A곱하는데 어떻게 널스페이스야?
+### Q3) loop와 edge
+### Q4) Null space of A에서 [c c c c]에 의해 한번에 전류가 결정된다는 게 한번에 C만큼 전류를 주면 전류가 그렇게 된다는 건지(근데 전류가 흐르지 않는다고 햇는데 무슨말이지)
 - 널스페이스의 베이시스 = [1 1 1 1] → 상수배c를 해도 전부
 
 # 참고
