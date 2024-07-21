@@ -1,7 +1,7 @@
 ---
 title: "[Linear Algebra] Lecture 10 The Four Fundamental Subspaces"
 author_profile: false
-toc: true
+toc: false
 toc_label: "Table of Contents"
 toc_icon: true
 toc_sticky: true
@@ -17,22 +17,7 @@ last_modified_at: 2024-07-20
 - pivot의 개수: 공간을 정의하는 요소의 개수, 시스템이 정해지면 row의 피봇의 개수나 col의 피봇의 개수나 그냥 같은 거임
 - pivot의 정의상 행으로 보나 열로 보나 1이 있는게 1개임
 
-
-<aside>
-💡 왜 row space와 col space의 차원이 항상 같지?
-
-</aside>
-
-- row로 보나 col로 보나 같은 시스템이라 col로 봤을 때 부정이었던 게 row로 본다고 해가 생기는 것은 아니니까
-- 그래도 이해안되는 걸?
-- pivot의 개수: 공간을 정의하는 요소의 개수, 시스템이 정해지면 row의 피봇의 개수나 col의 피봇의 개수나 그냥 같은 거임
-- pivot의 정의상 행으로 보나 열로 보나 1이 있는게 1개임
-
-<aside>
-💡 행렬 A의 row space의 basis는 R 행렬의 처음 r개의 row vector들
-원리가 이해 안됨
-
-</aside>
+## 행렬 A의 row space의 basis는 R 행렬의 처음 r개의 row vector들 원리가 이해 안됨
 
 - pivit의 관점으로 보면, 행/열로 보나 정의상 그 행/열에서 1개임
     - pivot은 무조건 column을 말함
