@@ -1,7 +1,7 @@
 ---
-title: "[Linear Algebra] Lecture 17 Gram-schmidt"
+title: "[Linear Algebra] Lecture 18 Properties of Determinants"
 author_profile: false
-toc: true
+toc: False
 toc_label: "Table of Contents"
 toc_icon: true
 toc_sticky: true
