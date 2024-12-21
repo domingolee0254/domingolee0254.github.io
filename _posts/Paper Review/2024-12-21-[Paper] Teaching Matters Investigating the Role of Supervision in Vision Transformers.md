@@ -22,26 +22,30 @@ last_modified_at: 2024-12-21
   - 대부분의 기존 연구가 명시적 감독(explicit supervision)에 초점.  
 
 - Goal:  
-  - ViT의 다양한 학습 방식(명시적 감독, 대조적 자가 지도 학습, 복원 기반 학습)을 비교하여 각 방식이 ViT의 행동에 어떻게 영향을 미치는지 분석.  
+  - ViT의 다양한 학습 방식(supervised, contrastive self-supervised, reconstructive self-supervised)을 비교하여 각 방식이 ViT의 행동에 어떻게 영향을 미치는지 분석.  
 
 - Observation:  
   - ViT는 CNN과 달리 지역(local) 및 전역(global) 정보를 학습하는 방식에 유연성이 있음.  
   - 학습 방식에 따라 정보 처리 순서와 표현 방식이 달라짐.  
 
-- Key Idea:  
+- Key Idea:
+  - How ViTs process local/global information (Attention).
+  - What we take away from ViTs (Features).
+  - Why we use ViTs (Downstream Tasks).
   - Offset Local Attention Head와 같은 새로운 현상을 발견하고 이를 ViT의 필수 메커니즘으로 정의.  
   - ViT는 다양한 학습 방식에 따라 다운스트림 작업에서 적합한 레이어가 다르게 나타날 수 있음.  
 
-- Result:  
-  - 명시적 감독은 이미지 수준에서 가장 풍부한 의미적 표현을 제공.  
-  - 대조적 학습은 경쟁력을 보이며, 복원 기반 학습도 의미 있는 표현을 학습함.  
+- Result:
+  - 결국, 모든 다운스트림 작업에 최적화된 모델이나 레이어는 없으며, 작업에 따라 적합한 레이어가 달라짐.
+  - supervised은 이미지 수준에서 가장 풍부한 의미적 표현을 제공.  
+  - contrastive learning은 경쟁력을 보이며, reconstructive learning도 의미 있는 표현을 학습함.  
   - 특정 다운스트림 작업에 최적화된 레이어는 작업별로 달라질 수 있음.  
 
 ---
 
 # **Strong**  
 
-1. 6가지 학습 방식(명시적 감독 2개, 대조적 2개, 복원 기반 2개)을 비교하여 ViT의 학습 특성을 심층적으로 탐구.  
+1. 6가지 학습 방식(supervised 2개, contrastive 2개, reconstructive 2개)을 비교하여 ViT의 학습 특성을 심층적으로 탐구.  
 
 2. Offset Local Attention Head라는 새로운 현상을 발견하고 이를 ViT의 구조적 필수 요소로 정의.  
 
