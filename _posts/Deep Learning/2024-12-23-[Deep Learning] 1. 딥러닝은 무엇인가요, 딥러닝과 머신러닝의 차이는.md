@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: true
 toc_sticky: true
 categories:
-    - Deep Learning
+    - Paper Review
 tags:
     - Deep Learning
 last_modified_at: 2024-12-23
